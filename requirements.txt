@@ -1,0 +1,15 @@
+click
+Flask
+Flask-SQLAlchemy
+greenlet
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+psycopg2-binary
+python-dotenv
+requests
+SQLAlchemy
+Werkzeug
+pytest
+dependency-injector
